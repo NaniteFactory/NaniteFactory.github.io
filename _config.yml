@@ -27,7 +27,7 @@ github_username: NaniteFactory
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: jekyll-theme-modernist
 gems:
   - jekyll-feed
 exclude:
