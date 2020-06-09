@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Notepadium</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Notepadium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>©2019 Notepadium.</copyright>
+    <lastBuildDate>Wed, 10 Jun 2020 03:02:03 +0900</lastBuildDate>
+    
+        <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test2</title>
+      <link>/post/test2/</link>
+      <pubDate>Wed, 10 Jun 2020 03:02:03 +0900</pubDate>
+      
+      <guid>/post/test2/</guid>
+      <description>test</description>
+      
+    </item>
+    
+    <item>
+      <title>Test1</title>
+      <link>/post/test1/</link>
+      <pubDate>Wed, 10 Jun 2020 02:34:03 +0900</pubDate>
+      
+      <guid>/post/test1/</guid>
+      <description>test
+  text-align
+.box { text-align: center; } Definition and Usage
+The text-align property specifies the horizontal alignment of text in an element.
+Default valueleft if direction is ltr, and right if direction is rtlInheritedyesAnimatableno. Read about animatableVersionCSS1JavaScript syntaxobject.style.textAlign=&amp;quot;right&amp;quot;   </description>
+      
+    </item>
+    
+  </channel>
+</rss>
